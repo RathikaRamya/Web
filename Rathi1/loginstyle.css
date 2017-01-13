@@ -1,0 +1,167 @@
+body{
+background-color:white;
+}
+
+h2{
+		 text-align:right;
+	 }
+bodycolor
+{
+	background-color:white;
+}	  
+#nav {
+    float: left;
+    max-width: 5%;
+    margin: 0;
+    padding: 1em;
+	
+}
+.error
+{
+	color:#FF0000;
+	
+}
+.radiuscontrol
+{
+	height:10%;
+	padding:10px 12px;
+	font-size:10px;
+	line-height:100%;
+	border-radius:15px;
+	width:190%;
+	
+  }
+ .radiuscontrol1
+{
+	height:10%;
+	padding:10px 12px;
+	font-size:10px;
+	line-height:100%;
+	border-radius:15px;
+	width:990%;
+  }
+
+
+#header
+{
+	height:15%;
+   width:100%;
+   border:2px solid #dedede;
+  margin-top:0px;
+    font-size: 30px;
+	background-color:lightyellow;
+    text-align:right;
+}
+.stufont
+{
+	
+	font-size:20px;
+	color:red;
+	padding:15px;
+	 font-family:algerian;
+}
+.stufont1
+{
+	font-family:algerian;
+	font-size:20px;
+	color:red;
+	padding:20px;
+	
+	margin-left:20px;
+}
+#next_button
+{
+	margin-bottom:20px;
+	margin-top:50px;
+	
+	
+}
+.stufont11{
+	font-family:algerian;
+	font-size:20px;
+	color:red;
+	padding:20px;
+	margin-left:350px;
+	width="100%"
+}
+.profile_control{
+	
+	font-size:19px;
+	color:black;
+	    display: inline-block;
+    max-width: 100%;
+   
+    font-weight: 700;
+	 font-family: Sans-sarif;
+  }
+
+.buttonn
+ {
+   background-color: #e600e6;
+    border: 1px;
+	  border-radius: 8px;
+    color: white;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    cursor: pointer;
+	margin-left:50px;
+}
+#next_button
+ {
+   
+    border: 1px;
+	  border-radius: 8px;
+    color: white;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    cursor: pointer;
+	margin-bottom="50px";
+	#subbutton
+	{
+	padding-left:1250px;	
+	}
+	 
+
+sidebar
+{
+  float:left;
+  width:15%;
+  height:100%;
+  margin:40px 5px;
+  padding:10px;
+  border:2px solid #dedede;
+  background-color:pink;
+}
+
+
+
+#SSLCtable
+{	padding:80px;
+	
+	
+    font-size:40px;
+	width:80%;
+	margin-left:0%;
+	
+	}
+	form-control
+	{
+	
+	width:100%;		
+	}
+	studenttable
+	{
+		margin-left:30px;
+	}
+center {
+    display: block;
+    text-align: -webkit-center;
+}

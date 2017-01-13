@@ -1,0 +1,68 @@
+
+.set
+{
+	
+	font-size:20px;
+	color:red;
+	padding:15px;
+	 font-family:algerian;
+}
+.setlabel
+{
+	
+	font-size:20px;
+	color:green;
+	margin-left:0%;
+	 font-family:algerian;
+	 margin-bottom:30px;
+}
+.rateset
+{
+	font-size:20px;
+	color:black;
+	
+	 font-family:perpetua;
+}
+.spacetype
+{
+	
+	
+	border-radius:5px;
+	height:30px;
+	line-height:10%;	
+	margin-left:5%;
+	background-color:white;
+}
+.changecolor
+{
+	background-color:white;
+}
+.comment
+{
+	width:50%;
+	height:25%;
+	margin-left:5%
+}
+td
+{
+	padding-bottom:20px;
+	background-color:;
+}
+thead
+{
+	padding-right:80px;
+	
+}
+table
+{
+	margin-left:0%;
+	margin-bottom:30px;
+	
+}
+.changefont
+{
+	font-family:copperplate;
+	font-size:20px;
+	background-color:white;
+}
+

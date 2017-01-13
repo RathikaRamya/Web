@@ -1,0 +1,50 @@
+.tablehead
+{
+width:750px;
+ height:50%;
+ margin-left:10%;
+}
+.tablehead1
+{
+width:750px;
+ height:50%;
+ margin-left:5%;
+}
+.tablehead2
+{
+width:750px;
+ height:50%;
+ margin-left:6%;
+}
+.tablehead3
+{
+width:750px;
+ height:50%;
+ margin-left:4%;
+}
+
+form-control{
+	size:3px;
+	color:black;
+	box-sizing: border-box;
+	margin-left:30%;
+	width:100%;
+	padding:20px;
+
+}
+
+
+.button
+ {
+   background-color:brown;
+    border: 1px;
+    color: white;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	margin-right:20px;
+}

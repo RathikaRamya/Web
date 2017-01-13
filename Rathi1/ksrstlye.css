@@ -1,0 +1,119 @@
+
+body{
+background-color:white;
+}
+h1 {
+    color: black;
+    margin-left: 40px;
+}
+#ksrhead
+{
+  height:20%;
+   text-align:center;
+   border:5px solid #dedede;
+  margin-top:0px;
+    font-size: 30px;
+	aligh-content:center;
+    webkit-align-content: center;
+   }
+   #image
+   {
+	   padding-top:0px;
+	   padding-bottom:0px;
+	   margin-top:0px;
+	   margin-bottom:0px;
+   }
+   .text_login
+   {
+	   font-size:15pt;
+	   height:140%;
+	   width:7000%;
+	   border-radius:13px;
+	   
+   }
+   .name_label
+   {
+	   font-style:oblique;
+	font-size:23px;
+	
+   }
+name_label{
+	size:100px;
+}   
+#form
+{
+	padding:50px;
+}
+.button
+ {
+   background-color: #e600e6;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+	button-align:center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin:6px 4px;
+    cursor: pointer;
+	margin-left:15px;
+	font-family:Algerian;
+}
+#register_button
+{
+	
+   background-color: white;
+    border-radius: 8px;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+	
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin:6px 4px;
+    cursor: pointer;
+	margin-left:25px;
+	font-family:Algerian;
+}
+.register_button
+{
+	
+   background-color: green;
+    border-radius: 8px;
+    color: white;
+    padding: 30px 48px;
+    text-align: center;
+	margin-top:30px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    
+    cursor: pointer;
+	margin-left:25px;
+	font-family:Algerian;
+}
+#subbutton
+	{
+	padding-left:1250px;	
+	}
+#table
+{
+
+width:35%;
+text-align:center;
+padding :5%;
+height:30%;
+font-family:Algerian;
+
+border-radius:10px;
+    background-color: lightgrey;
+    width: 30%;
+    border: 50px ;
+   
+    margin: 30px;
+	margin-left:180px;
+	text-align:center;
+}
+ padding: 40px;
